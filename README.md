@@ -109,6 +109,24 @@ future:
 
 ## troubleshooting: potential errors u might encounter
 
+<b>npx react-native start: start is not a command</b>
+
+```
+sudo yarn
+```
+
+<b>
+Codegen did not run properly in your project. Please reinstall cocoapods with `bundle exec pod install`.
+</b>
+
+```
+sudo yarn
+sudo pod install --allow-root
+gem install bundler
+bundler
+sudo bundle exec pod install --allow-root
+```
+
 <b>Linker command failed with exit code 1 (use -v to see invocation)</b>
 
 remove -ObjC from all .xcconfig files
