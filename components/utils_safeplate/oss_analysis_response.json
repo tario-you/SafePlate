@@ -1,0 +1,157 @@
+{
+  "RequestId": "4D80F208-37F5-54F1-A7A7-878AE8E775D1",
+  "Labels": [
+    {
+      "CentricScore": 0.903,
+      "Language": "zh-Hans",
+      "LabelConfidence": 1,
+      "LabelName": "烹饪 (菜品)",
+      "LabelLevel": 3,
+      "ParentLabelName": "菜品"
+    },
+    {
+      "CentricScore": 0.68,
+      "Language": "zh-Hans",
+      "LabelConfidence": 1,
+      "LabelName": "炊具",
+      "LabelLevel": 2,
+      "ParentLabelName": "日常用品"
+    },
+    {
+      "CentricScore": 0.893,
+      "Language": "zh-Hans",
+      "LabelConfidence": 1,
+      "LabelName": "碟",
+      "LabelLevel": 3,
+      "ParentLabelName": "菜品"
+    },
+    {
+      "CentricScore": 0.788,
+      "Language": "zh-Hans",
+      "LabelConfidence": 1,
+      "LabelName": "煎炸",
+      "LabelLevel": 3,
+      "ParentLabelName": "菜品"
+    },
+    {
+      "CentricScore": 0.9,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.965,
+      "LabelName": "小吃",
+      "LabelLevel": 3,
+      "ParentLabelName": "菜品"
+    },
+    {
+      "CentricScore": 0.903,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.931,
+      "LabelName": "食物",
+      "LabelLevel": 2,
+      "ParentLabelName": "食物饮料"
+    },
+    {
+      "CentricScore": 0.698,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.899,
+      "LabelName": "炒菜锅",
+      "LabelLevel": 3,
+      "ParentLabelName": "工具"
+    },
+    {
+      "CentricScore": 0.853,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.898,
+      "LabelName": "点心",
+      "LabelLevel": 3,
+      "ParentLabelName": "菜品"
+    },
+    {
+      "CentricScore": 0.872,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.896,
+      "LabelName": "饺子",
+      "LabelLevel": 3,
+      "ParentLabelName": "菜品"
+    },
+    {
+      "CentricScore": 0.908,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.839,
+      "LabelName": "快餐",
+      "LabelLevel": 2,
+      "ParentLabelName": "其他场景"
+    },
+    {
+      "CentricScore": 0.852,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.801,
+      "LabelName": "花卷",
+      "LabelLevel": 3,
+      "ParentLabelName": "菜品"
+    },
+    {
+      "CentricScore": 0.847,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.786,
+      "LabelName": "馄饨",
+      "LabelLevel": 3,
+      "ParentLabelName": "菜品"
+    },
+    {
+      "CentricScore": 0.816,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.662,
+      "LabelName": "油炸",
+      "LabelLevel": 2,
+      "ParentLabelName": "日常行为"
+    },
+    {
+      "CentricScore": 0.903,
+      "Language": "zh-Hans",
+      "LabelConfidence": 1,
+      "LabelName": "菜品",
+      "LabelLevel": 2,
+      "ParentLabelName": "食物饮料"
+    },
+    {
+      "CentricScore": 0.698,
+      "Language": "zh-Hans",
+      "LabelConfidence": 1,
+      "LabelName": "日常用品",
+      "LabelLevel": 1,
+      "ParentLabelName": ""
+    },
+    {
+      "CentricScore": 0.903,
+      "Language": "zh-Hans",
+      "LabelConfidence": 1,
+      "LabelName": "食物饮料",
+      "LabelLevel": 1,
+      "ParentLabelName": ""
+    },
+    {
+      "CentricScore": 0.698,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.899,
+      "LabelName": "工具",
+      "LabelLevel": 2,
+      "ParentLabelName": "日常用品"
+    },
+    {
+      "CentricScore": 0.908,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.839,
+      "LabelName": "其他场景",
+      "LabelLevel": 1,
+      "ParentLabelName": ""
+    },
+    {
+      "CentricScore": 0.816,
+      "Language": "zh-Hans",
+      "LabelConfidence": 0.662,
+      "LabelName": "日常行为",
+      "LabelLevel": 1,
+      "ParentLabelName": ""
+    }
+  ]
+}

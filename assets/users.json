@@ -1,0 +1,135 @@
+[
+  {
+    "phonenumber": "1",
+    "password": "1",
+    "members": [
+      {
+        "username": "Mary",
+        "weight": "34",
+        "weightUnits": "Kilograms (kg)",
+        "heightMeter": 0,
+        "heightFeet": "3",
+        "heightInch": "5",
+        "heightUnits": "Feet (ft)",
+        "age": "23",
+        "allergies": "Pumpkin",
+        "sex": "Female",
+        "healthConditions": "Gluten intolerance "
+      },
+      {
+        "username": "John",
+        "weight": "3",
+        "weightUnits": "Kilograms (kg)",
+        "heightMeter": "3",
+        "heightFeet": "4",
+        "heightInch": "5",
+        "heightUnits": "Meters (m)",
+        "age": "23",
+        "allergies": "3",
+        "sex": "Female",
+        "healthConditions": "33"
+      },
+      {
+        "username": "Alice",
+        "weight": "234",
+        "weightUnits": "Kilograms (kg)",
+        "heightMeter": 0,
+        "heightFeet": "324",
+        "heightInch": "4",
+        "heightUnits": "Feet (ft)",
+        "age": "5",
+        "allergies": "23",
+        "sex": "Female",
+        "healthConditions": "12"
+      },
+      {
+        "username": "Wonderland",
+        "weight": "2",
+        "weightUnits": "Kilograms (kg)",
+        "heightMeter": "3",
+        "heightFeet": "3",
+        "heightInch": "4",
+        "heightUnits": "Meters (m)",
+        "age": "55",
+        "allergies": "6",
+        "sex": "Female",
+        "healthConditions": "3"
+      },
+      {
+        "username": "Lootbxo",
+        "weight": "234",
+        "weightUnits": "Kilograms (kg)",
+        "heightMeter": 0,
+        "heightFeet": "8",
+        "heightInch": "8",
+        "heightUnits": "Feet (ft)",
+        "age": "8",
+        "allergies": "8",
+        "sex": "Female",
+        "healthConditions": "8"
+      }
+    ]
+  },
+  {
+    "phonenumber": "2",
+    "password": "2",
+    "members": [
+      {
+        "username": "John",
+        "weight": "34",
+        "weightUnits": "Kilograms (kg)",
+        "heightMeter": 0,
+        "heightFeet": "3",
+        "heightInch": "5",
+        "heightUnits": "Feet (ft)",
+        "age": "23",
+        "allergies": "Pumpkin",
+        "sex": "Female",
+        "healthConditions": "Gluten intolerance ",
+        "active": "true"
+      }
+    ]
+  },
+  {
+    "phonenumber": "3",
+    "password": "3",
+    "members": [
+      {
+        "username": "Poop",
+        "weight": "34",
+        "weightUnits": "Kilograms (kg)",
+        "heightMeter": 0,
+        "heightFeet": "3",
+        "heightInch": "5",
+        "heightUnits": "Feet (ft)",
+        "age": "23",
+        "allergies": "Pumpkin",
+        "sex": "Female",
+        "healthConditions": "Gluten intolerance ",
+        "active": "true"
+      }
+    ]
+  },
+  {"phonenumber": "17", "password": "12345678", "members": []},
+  {"phonenumber": "18", "password": "12345678", "members": []},
+  {
+    "phonenumber": "19",
+    "password": "12345678",
+    "members": [
+      {
+        "username": "Poop",
+        "weight": "34",
+        "weightUnits": "Kilograms (kg)",
+        "heightMeter": 0,
+        "heightFeet": "3",
+        "heightInch": "5",
+        "heightUnits": "Feet (ft)",
+        "age": "23",
+        "allergies": "Pumpkin",
+        "sex": "Female",
+        "healthConditions": "Gluten intolerance ",
+        "active": "true"
+      }
+    ]
+  }
+]

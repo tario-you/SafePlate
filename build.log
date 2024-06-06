@@ -1,0 +1,6 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace safeplate3.xcworkspace -configuration Debug -scheme safeplate3 -destination id=10F12D25-B930-42AB-BF97-A60A8638E813 -verbose
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+

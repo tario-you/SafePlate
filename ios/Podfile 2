@@ -1,6 +1,19 @@
+require 'json'
+require 'open3'
+require 'pathname'
+
+# Correctly include the React Native CocoaPods integration
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+
+$CODEGEN_OUTPUT_DIR = 'build/generated/ios'
+$CODEGEN_COMPONENT_DIR = 'react/renderer/components'
+$CODEGEN_MODULE_DIR = '.'
+
+$START_TIME = Time.now.to_i
+
 require Pod::Executable.execute_command('node', ['-p',
   'require.resolve(
-    "react-native/scripts/react_native_pods.rb",
+    "@react-native-community/cli-platform-ios/native_modules.rb",
     {paths: [process.argv[1]]},
   )', __dir__]).strip
 
@@ -17,13 +30,17 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'safeplate3' do
+target 'Safeplate' do
   config = use_native_modules!
+
   use_react_native!(
     :path => config[:reactNativePath],
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
-  target 'safeplate3Tests' do
+
+  pod 'CocoaAsyncSocket'
+
+  target 'SafeplateTests' do
     inherit! :complete
   end
 
@@ -35,3 +52,5 @@ target 'safeplate3' do
     )
   end
 end
+
+pod 'RNFS', :path => '../node_modules/react-native-fs'

@@ -1,0 +1,136 @@
+{
+  "language": "nothing",
+  "HomeScreen": {
+    "Log In": "nothing",
+    "Log Out": "nothing",
+    "Sign Up": "nothing",
+    "Hello": "nothing",
+    "Welcome to": "nothing",
+    "Scan": "nothing",
+    "Scan descript": "nothing",
+    "Community": "nothing",
+    "Community descript": "nothing",
+    "Detection": "nothing",
+    "Detection descript": "nothing",
+    "Health": "nothing",
+    "Health descript": "nothing",
+    "Get Started": "nothing",
+    "complete your profile": "nothing"
+  },
+  "Settings": {
+    "title": "nothing",
+    "privacy": "nothing",
+    "language": "nothing",
+    "theme": "nothing",
+    "family": "nothing",
+    "notifications": "nothing",
+    "Add a family member": "nothing",
+    "Editing": "nothing",
+    "Age": "nothing",
+    "Allergies": "nothing",
+    "Height": "nothing",
+    "in": "nothing",
+    "ft": "nothing",
+    "Weight": "nothing",
+    "Health Conditions": "nothing",
+    "Sex": "nothing",
+    "Height Units": "nothing",
+    "Weight Units": "nothing",
+    "Units": "nothing",
+    "weightUnits": {
+      "Pounds (lb)": "nothing",
+      "Kilograms (kg)": "nothing"
+    },
+    "heightUnits": {
+      "Meters (m)": "nothing",
+      "Feet (ft)": "nothing"
+    },
+    "sex": {
+      "Male": "nothing",
+      "Female": "nothing"
+    },
+    "Set as Active": "nothing",
+    "Username": "nothing"
+  },
+  "Privacy": {
+    "update": "nothing",
+    "credit": "nothing",
+    "1": {
+      "title": "nothing",
+      "1": "nothing",
+      "2": "nothing",
+      "a": "nothing",
+      "b": "nothing",
+      "c": "nothing",
+      "d": "nothing",
+      "e": "nothing",
+      "f": "nothing"
+    },
+    "2": {
+      "title": "nothing",
+      "a": "nothing",
+      "b": "nothing",
+      "c": "nothing",
+      "d": "nothing"
+    },
+    "3": {"title": "nothing", "a": "nothing", "b": "nothing", "c": "nothing"},
+    "4": {
+      "title": "nothing",
+      "a": "nothing",
+      "b": "nothing",
+      "c": "nothing",
+      "d": "nothing"
+    },
+    "5": {"title": "nothing", "a": "nothing"},
+    "6": {"title": "nothing", "a": "nothing", "b": "nothing"},
+    "7": {"title": "nothing", "a": "nothing", "b": "nothing"},
+    "8": {
+      "title": "nothing",
+      "a": "nothing",
+      "b": "nothing",
+      "c": "nothing",
+      "d": "nothing"
+    },
+    "9": {"title": "nothing", "descript": "nothing"},
+    "end": "nothing"
+  },
+  "Login": {
+    "descript": "nothing",
+    "phonenumber_support": "nothing",
+    "email": "nothing",
+    "password": "nothing",
+    "reenter_password": "nothing",
+    "continue": "nothing",
+    "facebook": "nothing",
+    "google": "nothing",
+    "apple": "nothing",
+    "phoneNumber": "nothing"
+  },
+  "Verify": {"title": "nothing", "descript": "nothing"},
+  "UnderDevelopment": {
+    "title": "nothing",
+    "comingsoon": "nothing",
+    "descript1": "nothing",
+    "descript2": "nothing",
+    "descript3": "nothing"
+  },
+  "Community": {
+    "title": "nothing",
+    "myposts": "nothing",
+    "recent": "nothing",
+    "popular": "nothing",
+    "blog": "nothing",
+    "event": "nothing",
+    "infographic": "nothing",
+    "article": "nothing",
+    "make": "nothing",
+    "Sort Options": "nothing",
+    "Submit a piece": "nothing",
+    "submit description": "nothing"
+  },
+  "Health": {
+    "previouschats": "nothing",
+    "title": "nothing",
+    "questionprompt": "nothing"
+  }
+}

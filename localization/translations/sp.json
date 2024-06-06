@@ -1,0 +1,158 @@
+{
+  "language": "Spanish",
+  "HomeScreen": {
+    "Log In": "Iniciar sesión",
+    "Log Out": "Cerrar sesión",
+    "Sign Up": "Registrarse",
+    "Hello": "Hola",
+    "Welcome to": "Bienvenido a",
+    "Scan": "Escanear",
+    "Scan descript": "Escanear alimentos y códigos de barras",
+    "Community": "Comunidad",
+    "Community descript": "Leer blogs y artículos sobre salud",
+    "Detection": "Detección",
+    "Detection descript": "Conectar biosensor y realizar análisis",
+    "Health": "Salud",
+    "Health descript": "Asistente de chatbot de atención médica personalizada",
+    "Get Started": "Empezar",
+    "complete your profile": "completa tu perfil"
+  },
+  "Settings": {
+    "title": "Configuración",
+    "privacy": "Privacidad y Seguridad",
+    "language": "Idioma",
+    "theme": "Tema",
+    "family": "Mi Familia",
+    "notifications": "Notificaciones",
+    "Add a family member": "Añadir un miembro de la familia",
+    "Editing": "Edición",
+    "Age": "Edad",
+    "Allergies": "Alergias",
+    "Height": "Altura",
+    "in": "pulg.",
+    "ft": "pies",
+    "Weight": "Peso",
+    "Health Conditions": "Condiciones de salud",
+    "Sex": "Sexo",
+    "Height Units": "Unidades de altura",
+    "Weight Units": "Unidades de peso",
+    "Units": "Unidades",
+    "weightUnits": {
+      "Pounds (lb)": "Libras (lb)",
+      "Kilograms (kg)": "Kilogramos (kg)"
+    },
+    "heightUnits": {
+      "Meters (m)": "Metros (m)",
+      "Feet (ft)": "Pies (ft)"
+    },
+    "sex": {
+      "Male": "Masculino",
+      "Female": "Femenino"
+    },
+    "Set as Active": "Establecer como Activo",
+    "Username": "Nombre de usuario"
+  },
+  "Privacy": {
+    "update": "Última actualización",
+    "credit": "Crédito de la política",
+    "1": {
+      "title": "Principios de protección de datos",
+      "1": "La organización se compromete a procesar los datos de acuerdo con sus responsabilidades bajo la DPA.",
+      "2": "La DPA requiere que los datos personales sean",
+      "a": "procesados de manera lícita, justa y transparente en relación con los individuos;",
+      "b": "recolectados para fines específicos, explícitos y legítimos y no procesados de manera que sea incompatible con esos fines; el procesamiento posterior para fines de archivo en el interés público, propósitos de investigación científica o histórica o fines estadísticos no se considerará incompatible con los fines iniciales;",
+      "c": "adecuados, relevantes y limitados a lo necesario en relación con los fines para los cuales se procesan;",
+      "d": "exactos y, cuando sea necesario, mantenidos al día; se deben tomar todas las medidas razonables para asegurar que los datos personales que sean inexactos, teniendo en cuenta los fines para los cuales se procesan, sean borrados o rectificados sin demora;",
+      "e": "conservados en una forma que permita la identificación de los sujetos de datos por no más tiempo del necesario para los fines para los cuales se procesan los datos personales; los datos personales pueden almacenarse por períodos más largos en la medida en que los datos personales se procesarán únicamente para fines de archivo en el interés público, propósitos de investigación científica o histórica o fines estadísticos sujeto a la implementación de las medidas técnicas y organizativas apropiadas requeridas por la DPA para salvaguardar los derechos y libertades de los individuos; y",
+      "f": "procesados de manera que asegure la seguridad adecuada de los datos personales, incluida la protección contra el procesamiento no autorizado o ilegal y contra la pérdida, destrucción o daño accidental, utilizando medidas técnicas u organizativas apropiadas."
+    },
+    "2": {
+      "title": "Disposiciones generales",
+      "a": "Esta política aplica a todos los datos personales procesados por la organización.",
+      "b": "La Persona Responsable tomará responsabilidad por el cumplimiento continuo de la organización con esta política.",
+      "c": "Esta política será revisada al menos anualmente.",
+      "d": "La organización se registrará en la Oficina del Comisionado de Información como una organización que procesa datos personales."
+    },
+    "3": {
+      "title": "Procesamiento lícito, justo y transparente",
+      "a": "Para asegurar que su procesamiento de datos es lícito, justo y transparente, la organización mantendrá un Registro de Sistemas.",
+      "b": "El Registro de Sistemas será revisado al menos anualmente.",
+      "c": "Los individuos tienen derecho a acceder a sus datos personales y cualquier solicitud hecha a la organización será tratada de manera oportuna."
+    },
+    "4": {
+      "title": "Fines lícitos",
+      "a": "Todos los datos procesados por la organización deben hacerse sobre una de las siguientes bases lícitas: consentimiento, contrato, obligación legal, intereses vitales, tarea pública o intereses legítimos (ver la guía de ICO para más información).",
+      "b": "La organización anotará la base lícita apropiada en el Registro de Sistemas.",
+      "c": "Cuando el consentimiento se utilice como base lícita para procesar datos, se deberá guardar evidencia del consentimiento opt-in con los datos personales.",
+      "d": "Cuando se envíen comunicaciones a individuos basadas en su consentimiento, la opción para que el individuo revoque su consentimiento debe estar claramente disponible y se deben tener sistemas en lugar para asegurar que tal revocación se refleje precisamente en los sistemas de la organización."
+    },
+    "5": {
+      "title": "Minimización de datos",
+      "a": "La organización asegurará que los datos personales sean adecuados, relevantes y limitados a lo necesario en relación con los fines para los cuales se procesan."
+    },
+    "6": {
+      "title": "Precisión",
+      "a": "La organización tomará medidas razonables para asegurar que los datos personales sean precisos.",
+      "b": "Cuando sea necesario para la base lícita sobre la cual se procesan los datos, se deberán implementar medidas para asegurar que los datos personales se mantengan actualizados."
+    },
+    "7": {
+      "title": "Archivado / eliminación",
+      "a": "Para asegurar que los datos personales se conserven no más tiempo del necesario, la organización establecerá una política de archivado para cada área en la que se procesen datos personales y revisará este proceso anualmente.",
+      "b": "La política de archivado considerará qué datos deben/deben ser retenidos, por cuánto tiempo y por qué."
+    },
+    "8": {
+      "title": "Seguridad",
+      "a": "La organización asegurará que los datos personales se almacenen de manera segura utilizando software moderno que se mantenga actualizado.",
+      "b": "El acceso a los datos personales será limitado al personal que necesite acceso y se deberán tener medidas de seguridad adecuadas para evitar la compartición no autorizada de información.",
+      "c": "Cuando se eliminen datos personales, esto se deberá hacer de manera segura de tal forma que los datos sean irrecuperables.",
+      "d": "Se deberán tener soluciones de respaldo y recuperación ante desastres adecuadas."
+    },
+    "9": {
+      "title": "Violación",
+      "descript": "En el evento de una violación de seguridad que lleve a la destrucción accidental o ilegal, pérdida, alteración, divulgación no autorizada de, o acceso a, datos personales, la organización evaluará prontamente el riesgo para los derechos y libertades de las personas y si es apropiado reportará esta violación al ICO (más información en el sitio web del ICO)."
+    },
+    "end": "FIN DE LA POLÍTICA"
+  },
+  "Login": {
+    "descript": "Las únicas funciones que proporciona el inicio de sesión son la sincronización entre dispositivos y asesoramiento de salud personalizado.",
+    "phonenumber_support": "Actualmente solo admite números de teléfono +86 de China continental.",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "reenter_password": "Reingresa tu contraseña",
+    "continue": "Continuar",
+    "facebook": "Continuar con Facebook",
+    "google": "Continuar con Google",
+    "apple": "Continuar con Apple",
+    "phoneNumber": "Número de teléfono"
+  },
+  "Verify": {
+    "title": "Verificar",
+    "descript": "Revisa tu correo electrónico para un código de verificación de 6 dígitos"
+  },
+  "UnderDevelopment": {
+    "title": "En desarrollo",
+    "comingsoon": "¡Próximamente!",
+    "descript1": "Esta característica está en desarrollo.",
+    "descript2": "¡Estamos trabajando duro para traértela pronto!",
+    "descript3": "Mientras tanto, echa un vistazo a nuestro Biosensor Culinova!"
+  },
+  "Community": {
+    "title": "Comunidad",
+    "myposts": "Mis publicaciones",
+    "recent": "Recientes",
+    "popular": "Populares",
+    "blog": "Blogs",
+    "event": "Eventos",
+    "infographic": "Infografías",
+    "article": "Artículos",
+    "make": "Crear una publicación",
+    "Sort Options": "Opciones de ordenación",
+    "Submit a piece": "Enviar una pieza",
+    "submit description": "Para enviar un artículo a la sección Comunidad, por favor envía un correo a worldhealthinstitute.official@gmail.com, o haz clic en [Copiar] para obtener la dirección de correo"
+  },
+  "Health": {
+    "previouschats": "Chats anteriores",
+    "title": "Chats",
+    "questionprompt": "Introduce una pregunta"
+  }
+}

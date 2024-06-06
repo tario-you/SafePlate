@@ -1,0 +1,158 @@
+{
+  "language": "French",
+  "HomeScreen": {
+    "Log In": "Connexion",
+    "Log Out": "Déconnexion",
+    "Sign Up": "Inscription",
+    "Hello": "Bonjour",
+    "Welcome to": "Bienvenue à",
+    "Scan": "Scanner",
+    "Scan descript": "Scanner des articles alimentaires et des codes-barres",
+    "Community": "Communauté",
+    "Community descript": "Lire des blogs et des articles sur la santé",
+    "Detection": "Détection",
+    "Detection descript": "Connecter un biosenseur et réaliser une analyse",
+    "Health": "Santé",
+    "Health descript": "Assistant chatbot de santé personnalisé",
+    "Get Started": "Commencer",
+    "complete your profile": "complétez votre profil"
+  },
+  "Settings": {
+    "title": "Paramètres",
+    "privacy": "Confidentialité et Sécurité",
+    "language": "Langue",
+    "theme": "Thème",
+    "family": "Ma Famille",
+    "notifications": "Notifications",
+    "Add a family member": "Ajouter un membre de la famille",
+    "Editing": "Édition",
+    "Age": "Âge",
+    "Allergies": "Allergies",
+    "Height": "Taille",
+    "in": "pouces",
+    "ft": "pieds",
+    "Weight": "Poids",
+    "Health Conditions": "Conditions de santé",
+    "Sex": "Sexe",
+    "Height Units": "Unités de taille",
+    "Weight Units": "Unités de poids",
+    "Units": "Unités",
+    "weightUnits": {
+      "Pounds (lb)": "Livres (lb)",
+      "Kilograms (kg)": "Kilogrammes (kg)"
+    },
+    "heightUnits": {
+      "Meters (m)": "Mètres (m)",
+      "Feet (ft)": "Pieds (ft)"
+    },
+    "sex": {
+      "Male": "Homme",
+      "Female": "Femme"
+    },
+    "Set as Active": "Définir comme actif",
+    "Username": "Nom d'utilisateur"
+  },
+  "Privacy": {
+    "update": "Dernière mise à jour",
+    "credit": "Crédit de la politique",
+    "1": {
+      "title": "Principes de protection des données",
+      "1": "L'organisation s'engage à traiter les données conformément à ses responsabilités en vertu du DPA.",
+      "2": "Le DPA exige que les données personnelles soient",
+      "a": "traitées de manière licite, équitable et transparente vis-à-vis des individus;",
+      "b": "collectées à des fins spécifiées, explicites et légitimes et non traitées ultérieurement de manière incompatible avec ces fins; le traitement ultérieur à des fins d'archivage dans l'intérêt public, de recherche scientifique ou historique ou à des fins statistiques ne doit pas être considéré comme incompatible avec les finalités initiales;",
+      "c": "adéquates, pertinentes et limitées à ce qui est nécessaire par rapport aux fins pour lesquelles elles sont traitées;",
+      "d": "exactes et, si nécessaire, tenues à jour; toutes les mesures raisonnables doivent être prises pour s'assurer que les données personnelles inexactes, compte tenu des fins pour lesquelles elles sont traitées, soient effacées ou rectifiées sans délai;",
+      "e": "conservées sous une forme permettant l'identification des sujets des données pendant une durée n'excédant pas celle nécessaire aux fins pour lesquelles les données personnelles sont traitées; les données personnelles peuvent être conservées plus longtemps dans la mesure où elles seront traitées uniquement à des fins d'archivage dans l'intérêt public, de recherche scientifique ou historique ou à des fins statistiques, sous réserve de la mise en œuvre des mesures techniques et organisationnelles appropriées exigées par le DPA afin de sauvegarder les droits et libertés des individus; et",
+      "f": "traitées de manière à garantir la sécurité adéquate des données personnelles, y compris la protection contre le traitement non autorisé ou illicite et contre la perte, la destruction ou les dommages accidentels, en utilisant des mesures techniques ou organisationnelles appropriées."
+    },
+    "2": {
+      "title": "Dispositions générales",
+      "a": "Cette politique s'applique à toutes les données personnelles traitées par l'organisation.",
+      "b": "La personne responsable doit prendre la responsabilité de la conformité continue de l'organisation avec cette politique.",
+      "c": "Cette politique doit être révisée au moins annuellement.",
+      "d": "L'organisation doit s'inscrire auprès du Bureau du commissaire à l'information en tant qu'organisation traitant des données personnelles."
+    },
+    "3": {
+      "title": "Traitement licite, équitable et transparent",
+      "a": "Pour assurer que son traitement des données est licite, équitable et transparent, l'organisation doit maintenir un registre des systèmes.",
+      "b": "Le registre des systèmes doit être révisé au moins annuellement.",
+      "c": "Les individus ont le droit d'accéder à leurs données personnelles et toute demande faite à l'organisation doit être traitée en temps opportun."
+    },
+    "4": {
+      "title": "Fins licites",
+      "a": "Toutes les données traitées par l'organisation doivent être effectuées sur l'une des bases légales suivantes : consentement, contrat, obligation légale, intérêts vitaux, tâche publique ou intérêts légitimes (voir le guide de l'ICO pour plus d'informations).",
+      "b": "L'organisation doit noter la base légale appropriée dans le registre des systèmes.",
+      "c": "Lorsque le consentement est invoqué comme base légale pour le traitement des données, une preuve du consentement doit être conservée avec les données personnelles.",
+      "d": "Lorsque des communications sont envoyées aux individus sur la base de leur consentement, l'option de révoquer leur consentement doit être clairement disponible et des systèmes doivent être en place pour garantir que cette révocation soit reflétée avec précision dans les systèmes de l'organisation."
+    },
+    "5": {
+      "title": "Minimisation des données",
+      "a": "L'organisation doit veiller à ce que les données personnelles soient adéquates, pertinentes et limitées à ce qui est nécessaire par rapport aux fins pour lesquelles elles sont traitées."
+    },
+    "6": {
+      "title": "Précision",
+      "a": "L'organisation doit prendre des mesures raisonnables pour assurer l'exactitude des données personnelles.",
+      "b": "Lorsque cela est nécessaire pour la base légale sur laquelle les données sont traitées, des mesures doivent être mises en place pour s'assurer que les données personnelles sont tenues à jour."
+    },
+    "7": {
+      "title": "Archivage / suppression",
+      "a": "Pour garantir que les données personnelles sont conservées pendant une durée n'excédant pas celle nécessaire, l'organisation doit mettre en place une politique d'archivage pour chaque domaine dans lequel les données personnelles sont traitées et réviser ce processus annuellement.",
+      "b": "La politique d'archivage doit considérer quelles données doivent/doivent être conservées, pendant combien de temps et pourquoi."
+    },
+    "8": {
+      "title": "Sécurité",
+      "a": "L'organisation doit s'assurer que les données personnelles sont stockées en sécurité en utilisant un logiciel moderne qui est régulièrement mis à jour.",
+      "b": "L'accès aux données personnelles doit être limité au personnel qui en a besoin et des mesures de sécurité appropriées doivent être en place pour éviter le partage non autorisé d'informations.",
+      "c": "Lorsque les données personnelles sont supprimées, cela doit être fait de manière sécurisée de sorte que les données soient irrécupérables.",
+      "d": "Des solutions de sauvegarde et de reprise après sinistre appropriées doivent être en place."
+    },
+    "9": {
+      "title": "Violation",
+      "descript": "En cas de violation de sécurité conduisant à la destruction accidentelle ou illicite, à la perte, à l'altération, à la divulgation non autorisée ou à l'accès à des données personnelles, l'organisation doit rapidement évaluer le risque pour les droits et libertés des personnes et, si approprié, signaler cette violation à l'ICO (plus d'informations sur le site web de l'ICO)."
+    },
+    "end": "FIN DE LA POLITIQUE"
+  },
+  "Login": {
+    "descript": "Les seules fonctionnalités fournies par la connexion sont la synchronisation entre les appareils et des conseils de santé personnalisés.",
+    "phonenumber_support": "Actuellement, ne prend en charge que les numéros de téléphone +86 de Chine continentale.",
+    "email": "Email",
+    "password": "Mot de passe",
+    "reenter_password": "Entrez à nouveau votre mot de passe",
+    "continue": "Continuer",
+    "facebook": "Continuer avec Facebook",
+    "google": "Continuer avec Google",
+    "apple": "Continuer avec Apple",
+    "phoneNumber": "Numéro de téléphone"
+  },
+  "Verify": {
+    "title": "Vérifier",
+    "descript": "Vérifiez votre courriel pour un code de vérification à 6 chiffres"
+  },
+  "UnderDevelopment": {
+    "title": "En développement",
+    "comingsoon": "Bientôt disponible!",
+    "descript1": "Cette fonctionnalité est en cours de développement.",
+    "descript2": "Nous travaillons dur pour vous la proposer bientôt!",
+    "descript3": "En attendant, découvrez notre biosenseur Culinova!"
+  },
+  "Community": {
+    "title": "Communauté",
+    "myposts": "Mes publications",
+    "recent": "Récent",
+    "popular": "Populaire",
+    "blog": "Blogs",
+    "event": "Événements",
+    "infographic": "Infographies",
+    "article": "Articles",
+    "make": "Faire une publication",
+    "Sort Options": "Options de tri",
+    "Submit a piece": "Soumettre un article",
+    "submit description": "Pour soumettre un article à la section Communauté, veuillez envoyer un courriel à worldhealthinstitute.official@gmail.com, ou cliquez sur [Copier] pour obtenir l'adresse e-mail"
+  },
+  "Health": {
+    "previouschats": "Chats précédents",
+    "title": "Chats",
+    "questionprompt": "Posez une question"
+  }
+}
