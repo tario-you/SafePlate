@@ -132,10 +132,12 @@ Codegen did not run properly in your project. Please reinstall cocoapods with `b
 </b>
 
 ```
-sudo yarn
-sudo pod install --allow-root
 gem install bundler
 bundler
+
+idk:
+sudo yarn
+sudo pod install --allow-root
 sudo bundle exec pod install --allow-root
 ```
 

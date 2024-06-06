@@ -15,7 +15,7 @@ data = {
         '/Users/tarioyou/safeplate3/node_modules/levelup/lib/write-stream.js': [(7, 'stream')], 
         '/Users/tarioyou/safeplate3/node_modules/level-filesystem/paths.js': [(1, 'path')], 
         '/Users/tarioyou/safeplate3/node_modules/glob/glob.js': [(48, 'path')], 
-        '/Users/tarioyou/safeplate3/node_modules/nock/lib/intercepted_request_router.js': [(8, 'http')], 
+        '/Users/tarioyou/safeplate3/node_modules/nock/lib/intercepted_request_router.js': [(8, 'http'), (9, 'https')], 
         '/Users/tarioyou/safeplate3/node_modules/detect-libc/lib/filesystem.js': [(6, 'fs')], 
         '/Users/tarioyou/safeplate3/node_modules/levelup/node_modules/readable-stream/readable.js': [(1, 'stream'), (10, 'stream')], 
         '/Users/tarioyou/safeplate3/node_modules/level-blobs/node_modules/readable-stream/readable.js': [(2, 'stream'), (9, 'stream')], 
@@ -64,12 +64,15 @@ replacements = {
 }
 
 for k, v in data.items():
-    # if k != "/Users/tarioyou/safeplate3/node_modules/mock-aws-s3/node_modules/fs-extra/lib/util/utimes.js": continue
-    with open(k, 'r') as f:
-        lines = f.read().split('\n')
-    # print(lines)
-    for line_num, keyword in v:
-        lines[line_num-1] = lines[line_num-1].replace('\''+keyword+'\'','\''+replacements[keyword]+'\'').replace('\"'+keyword+'\"','\''+replacements[keyword]+'\'')
-        # print(lines[line_num-1])
-    with open(k, 'w') as f:
-        f.write('\n'.join(lines))
+    try:
+        # if k != "/Users/tarioyou/safeplate3/node_modules/mock-aws-s3/node_modules/fs-extra/lib/util/utimes.js": continue
+        with open(k, 'r') as f:
+            lines = f.read().split('\n')
+        # print(lines)
+        for line_num, keyword in v:
+            lines[line_num-1] = lines[line_num-1].replace('\''+keyword+'\'','\''+replacements[keyword]+'\'').replace('\"'+keyword+'\"','\''+replacements[keyword]+'\'')
+            # print(lines[line_num-1])
+        with open(k, 'w') as f:
+            f.write('\n'.join(lines))
+    except Exception as e:
+        print(f'{k} failed: {e}')
