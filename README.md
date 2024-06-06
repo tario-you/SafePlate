@@ -109,6 +109,18 @@ future:
 
 ## troubleshooting: potential errors u might encounter
 
+<b>child_process</b>
+
+/Users/tarioyou/safeplate3/node_modules/detect-libc/
+
+go to its package.json and add
+
+```
+"browser": {
+   "child_process": false
+}
+```
+
 <b>npx react-native start: start is not a command</b>
 
 ```
